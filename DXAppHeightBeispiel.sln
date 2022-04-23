@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DXAppHeightBeispiel", "DXAppHeightBeispiel\DXAppHeightBeispiel.vbproj", "{44CE8AF6-8FA8-416C-91AC-4A2A8F05B2BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44CE8AF6-8FA8-416C-91AC-4A2A8F05B2BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44CE8AF6-8FA8-416C-91AC-4A2A8F05B2BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44CE8AF6-8FA8-416C-91AC-4A2A8F05B2BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44CE8AF6-8FA8-416C-91AC-4A2A8F05B2BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED8800E1-E705-4826-B7A8-7A9703CA9F5B}
+	EndGlobalSection
+EndGlobal
